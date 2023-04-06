@@ -1,5 +1,4 @@
 
--
 ## Inhaltsverzeichnis
 
 - [Dokumentation](#dokumentation)
