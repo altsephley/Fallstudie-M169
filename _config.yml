@@ -1,0 +1,9 @@
+title: Fallstudie App Ref. Card 01
+description: M169
+show_downloads: [false]
+
+remote_theme: "jasonlong/cayman-theme"
+plugins:
+- jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-feed
