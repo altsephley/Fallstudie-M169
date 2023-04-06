@@ -1,4 +1,6 @@
+* TOC
 {:toc}
+
 ## Inhaltsverzeichnis
 
 - [Dokumentation](#dokumentation)
