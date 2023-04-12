@@ -1,5 +1,7 @@
 <!-- test comment -->
 
+{:toc}
+
 ## Inhaltsverzeichnis
 
 - [Dokumentation](#dokumentation)
