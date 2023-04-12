@@ -1,5 +1,4 @@
-<!-- reference to style.css file -->
-<link rel="stylesheet" type="text/css" href="style.css">
+<!-- test comment -->
 
 ## Inhaltsverzeichnis
 
