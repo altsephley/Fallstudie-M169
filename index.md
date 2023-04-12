@@ -1,6 +1,6 @@
 <!-- test comment -->
 
-{:toc}
+{toc}
 
 ## Inhaltsverzeichnis
 
