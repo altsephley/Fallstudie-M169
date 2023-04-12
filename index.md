@@ -1,4 +1,6 @@
-<!-- Test comment -->
+<!-- reference to style.css file -->
+<link rel="stylesheet" type="text/css" href="style.css">
+
 ## Inhaltsverzeichnis
 
 - [Dokumentation](#dokumentation)
